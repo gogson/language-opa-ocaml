@@ -1,0 +1,12 @@
+{
+  "name": "language-opa-ocaml",
+  "version": "0.1.0",
+  "description": "Opa OCAML-based syntax language support in Atom",
+  "repository": "https://github.com/gogson/language-opa-ocaml",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
